@@ -1,4 +1,4 @@
-Тестирование сайта Pet Friends https://petfriends.skillfactory.ru/my_pets
+Тестирование сайта Pet Friends https://petfriends.skillfactory.ru
 
 В директории /tests располагается файл с тестами
 
